@@ -44,7 +44,7 @@
 		},
 		data() {
 			return {
-				imgSrc: '../../static/image/',
+				imgSrc: '../static/image/',
 			};
 		},
 		computed: {
